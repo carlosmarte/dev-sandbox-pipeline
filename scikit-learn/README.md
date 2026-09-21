@@ -1,0 +1,1 @@
+scikit-learn: The undisputed industry standard for traditional machine learning. It handles feature extraction (TfidfVectorizer, CountVectorizer), model selection (Logistic Regression, Support Vector Machines, Random Forest), evaluation metrics (Accuracy, F1-Score), and provides a Pipeline class to chain preprocessing and training steps together deterministically.
